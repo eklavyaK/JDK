@@ -1,4 +1,4 @@
-You're right! I should have emphasized some **Java basics** in the context of data engineering. Mastering core Java concepts, such as collections, data structures, and other foundational elements, is equally crucial for building efficient and scalable data pipelines. Here’s an updated list with **Java basics** included:
+Mastering core Java concepts, such as collections, data structures, and other foundational elements, is crucial for building efficient and scalable data pipelines. Here’s an updated list of Java concepts required for industrial data engineering. The list also includes basics as well.
 
 ### **Core Java Concepts to Master** (Basics)
 
@@ -83,9 +83,3 @@ You're right! I should have emphasized some **Java basics** in the context of da
 ### **Performance Tuning and Profiling**:
    - Learn to use tools like **JProfiler** or **VisualVM** to monitor and tune Java applications, particularly when processing large volumes of data.
    - Understand **garbage collection strategies** for optimizing performance in long-running data jobs.
-
----
-
-### Summary:
-
-By focusing on both **core Java concepts** like **collections**, **I/O**, **streams**, **concurrency**, and mastering advanced data frameworks like **Apache Spark**, **Kafka**, and **Hadoop**, you will build a solid foundation for becoming a professional data engineer using Java. It's essential to have a strong understanding of both the **basic Java building blocks** and **specialized libraries** for data handling and processing at scale.
